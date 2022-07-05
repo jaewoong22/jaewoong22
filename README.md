@@ -1,10 +1,10 @@
 ### 🤞 Contact me
 <p>
   <a href="https://woo-note.tistory.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Tech_Blog-FF8080?style=flat-square&logo=%20Sponsors&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Tech_Blog-5463FF?style=flat-square&logo=%20Sponsors&logoColor=white"/>
   </a>
   <a href="mailto:pjwoong0202@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/pjwoong0202@gmail.com-EB4747?style=flat-square&logo=Gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/pjwoong0202@gmail.com-FF1818?style=flat-square&logo=Gmail&logoColor=white"/>
   </a>
 </p>
 
