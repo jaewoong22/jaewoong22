@@ -32,7 +32,6 @@
   <img src="https://img.shields.io/badge/CSS3-4375DB?style=flat-square&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-FFCD12?style=flat-square&logo=javascript&logoColor=white">
   <img src="https://img.shields.io/badge/jquery-0769AD?style=flat-square&logo=jquery&logoColor=black">
-  <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white">
 </p>
 <p>
   <img src="https://img.shields.io/badge/GitHub-gray?style=flat-square&logo=GitHub&logoColor=white"/>
