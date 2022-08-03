@@ -24,7 +24,6 @@
   <img src="https://img.shields.io/badge/Java-937062?style=flat-square&logo=Java&logoColor=white"/>
   <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white">
   <img src="https://img.shields.io/badge/oracle-FF4848?style=flat-square&logo=oracle&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4374D9?style=flat-square&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/apache tomcat-F8DC75?style=flat-square&logo=apachetomcat&logoColor=black">
 </p>
 <p>
